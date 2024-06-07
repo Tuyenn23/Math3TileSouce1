@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileAtlas1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4a85b8fa37f6dc44d9d37398ed7f6f19, type: 3}
+    - {fileID: 2800000, guid: 0c1c5a3ee2746d04fb1b2861cfcd34ff, type: 3}
+    - {fileID: 2800000, guid: 226e438c5e94f3c47aed6bbbcb5d023d, type: 3}
+    - {fileID: 2800000, guid: 01cb40a69ced70e42ada1d58c0d55dce, type: 3}
+    - {fileID: 2800000, guid: 89bd45d8513e50c45ba034f3d5e95666, type: 3}
+    - {fileID: 2800000, guid: c4e36673bbde75a498339128f692597f, type: 3}
+    - {fileID: 2800000, guid: 4289f1781598faa45a80f1836e5e1692, type: 3}
+    - {fileID: 2800000, guid: 381d2b88253bff241946f6ee1600c8f9, type: 3}
+    - {fileID: 2800000, guid: 31cd34c8a15fa6b489e6daddab158d46, type: 3}
+    - {fileID: 2800000, guid: 5f96240d52752784c96cf4ff4501d4b7, type: 3}
+    - {fileID: 2800000, guid: 699290bc92853364ca342e80984353c2, type: 3}
+    - {fileID: 2800000, guid: 59a8e5c60c54a714d8853e2ece87298e, type: 3}
+    - {fileID: 2800000, guid: 558eca837c8537a4680c4a619dd1e1ca, type: 3}
+    - {fileID: 2800000, guid: 25ceb2172a0c1154bb6ec35825e7495f, type: 3}
+    - {fileID: 2800000, guid: 1dae7a09c2644954baf1285f20ceff7a, type: 3}
+    - {fileID: 2800000, guid: 95e92a70a211ff345b3ff8018e0c453b, type: 3}
+    - {fileID: 2800000, guid: d9d0b68788e2c4b41a6f75e7b82dafea, type: 3}
+    - {fileID: 2800000, guid: c83191f36c0a289449bf0c98115daf3f, type: 3}
+    - {fileID: 2800000, guid: 4ca75cf885b002c46a0c5f09b3a55e9a, type: 3}
+    - {fileID: 2800000, guid: d898d3d2635276445a8e76b7408d5982, type: 3}
+    - {fileID: 2800000, guid: f14442bc870eca740b4a7f83b9fbf0f5, type: 3}
+    - {fileID: 2800000, guid: 8a40fe9b596d01e439e329d38e135478, type: 3}
+    - {fileID: 2800000, guid: 7d59667935214ae44bb147035daf563a, type: 3}
+    - {fileID: 2800000, guid: 6ae18bc163131d44ea480ec14aca96b4, type: 3}
+    - {fileID: 2800000, guid: 6d80afee40cb87c42923795f556e427d, type: 3}
+    - {fileID: 2800000, guid: 1b768e956a308444083439ce3da90617, type: 3}
+    - {fileID: 2800000, guid: e3011a5b1365fc94e93e379be6ada963, type: 3}
+    - {fileID: 2800000, guid: d2e825dbd844e274785483aa39955215, type: 3}
+    - {fileID: 2800000, guid: e2897153818e86543878a87882689f9b, type: 3}
+    - {fileID: 2800000, guid: 2e0d1a58a75e81d49afb08be55199c97, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 95e92a70a211ff345b3ff8018e0c453b, type: 3}
+  - {fileID: 21300000, guid: 6ae18bc163131d44ea480ec14aca96b4, type: 3}
+  - {fileID: 21300000, guid: d898d3d2635276445a8e76b7408d5982, type: 3}
+  - {fileID: 21300000, guid: e2897153818e86543878a87882689f9b, type: 3}
+  - {fileID: 21300000, guid: c4e36673bbde75a498339128f692597f, type: 3}
+  - {fileID: 21300000, guid: 558eca837c8537a4680c4a619dd1e1ca, type: 3}
+  - {fileID: 21300000, guid: c83191f36c0a289449bf0c98115daf3f, type: 3}
+  - {fileID: 21300000, guid: 1b768e956a308444083439ce3da90617, type: 3}
+  - {fileID: 21300000, guid: 01cb40a69ced70e42ada1d58c0d55dce, type: 3}
+  - {fileID: 21300000, guid: 59a8e5c60c54a714d8853e2ece87298e, type: 3}
+  - {fileID: 21300000, guid: 25ceb2172a0c1154bb6ec35825e7495f, type: 3}
+  - {fileID: 21300000, guid: d9d0b68788e2c4b41a6f75e7b82dafea, type: 3}
+  - {fileID: 21300000, guid: 2e0d1a58a75e81d49afb08be55199c97, type: 3}
+  - {fileID: 21300000, guid: 4289f1781598faa45a80f1836e5e1692, type: 3}
+  - {fileID: 21300000, guid: 381d2b88253bff241946f6ee1600c8f9, type: 3}
+  - {fileID: 21300000, guid: 31cd34c8a15fa6b489e6daddab158d46, type: 3}
+  - {fileID: 21300000, guid: 89bd45d8513e50c45ba034f3d5e95666, type: 3}
+  - {fileID: 21300000, guid: 4ca75cf885b002c46a0c5f09b3a55e9a, type: 3}
+  - {fileID: 21300000, guid: 1dae7a09c2644954baf1285f20ceff7a, type: 3}
+  - {fileID: 21300000, guid: 7d59667935214ae44bb147035daf563a, type: 3}
+  - {fileID: 21300000, guid: 4a85b8fa37f6dc44d9d37398ed7f6f19, type: 3}
+  - {fileID: 21300000, guid: e3011a5b1365fc94e93e379be6ada963, type: 3}
+  - {fileID: 21300000, guid: 8a40fe9b596d01e439e329d38e135478, type: 3}
+  - {fileID: 21300000, guid: d2e825dbd844e274785483aa39955215, type: 3}
+  - {fileID: 21300000, guid: 226e438c5e94f3c47aed6bbbcb5d023d, type: 3}
+  - {fileID: 21300000, guid: 699290bc92853364ca342e80984353c2, type: 3}
+  - {fileID: 21300000, guid: f14442bc870eca740b4a7f83b9fbf0f5, type: 3}
+  - {fileID: 21300000, guid: 5f96240d52752784c96cf4ff4501d4b7, type: 3}
+  - {fileID: 21300000, guid: 0c1c5a3ee2746d04fb1b2861cfcd34ff, type: 3}
+  - {fileID: 21300000, guid: 6d80afee40cb87c42923795f556e427d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tile1_0015_Vector-Smart-Object
+  - tile1_0023_Vector-Smart-Object-copy-4
+  - tile1_0019_Vector-Smart-Object
+  - tile1_0028_bananas-copy
+  - tile1_0005_Vector-Smart-Object
+  - tile1_0012_Vector-Smart-Object
+  - tile1_0017_Vector-Smart-Object
+  - tile1_0025_Vector-Smart-Object
+  - tile1_0003_Vector-Smart-Object-copy-19
+  - tile1_0011_Vector-Smart-Object
+  - tile1_0013_Vector-Smart-Object
+  - tile1_0016_Vector-Smart-Object
+  - tile1_0029_Vector-Smart-Object-copy-11
+  - tile1_0006_Vector-Smart-Object
+  - tile1_0007_Vector-Smart-Object
+  - tile1_0008_grapes-copy
+  - tile1_0004_Vector-Smart-Object-copy-16
+  - tile1_0018_Vector-Smart-Object
+  - tile1_0014_strawberry-copy
+  - tile1_0022_Layer-3
+  - tile1_0000_Vector-Smart-Object-copy-21
+  - tile1_0026_Vector-Smart-Object-copy-13
+  - tile1_0021_Layer-4
+  - tile1_0027_Vector-Smart-Object
+  - tile1_0002_Vector-Smart-Object
+  - tile1_0010_Shape-1
+  - tile1_0020_Layer-5
+  - tile1_0009_Vector-Smart-Object
+  - tile1_0001_Vector-Smart-Object
+  - tile1_0024_grapes
+  m_RenderDataMap: {}
+  m_Tag: TileAtlas1
+  m_IsVariant: 0

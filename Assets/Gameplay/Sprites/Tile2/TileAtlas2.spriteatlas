@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileAtlas2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 15f5ade27f50bd8459d6421149e3692d, type: 3}
+    - {fileID: 2800000, guid: e6b758d11ff6cd44d8b1dfab2bf8a7d5, type: 3}
+    - {fileID: 2800000, guid: 79efafac7082c6c408f261d70e283480, type: 3}
+    - {fileID: 2800000, guid: 0e0faa92d5abc94429a817be3828a117, type: 3}
+    - {fileID: 2800000, guid: 57a101e87d9440b408efe5169dc00119, type: 3}
+    - {fileID: 2800000, guid: 78db990401f725944b9bacfc06d8acb9, type: 3}
+    - {fileID: 2800000, guid: 88694dd106ecf2e4db9a74ded9fff56a, type: 3}
+    - {fileID: 2800000, guid: 5b9e3f2e0e5551141a7e0c805cc08a86, type: 3}
+    - {fileID: 2800000, guid: c1536ef7dd484bb4aacb47f468ef9cc6, type: 3}
+    - {fileID: 2800000, guid: c51b6d53ad8f17a4194f41ef776761f0, type: 3}
+    - {fileID: 2800000, guid: e0afe3fc204220c4a9129ddec708632f, type: 3}
+    - {fileID: 2800000, guid: 450e44419fa31714d8d64dbd22eca72c, type: 3}
+    - {fileID: 2800000, guid: 52dc53bbbec4dc84f89a84f565d83209, type: 3}
+    - {fileID: 2800000, guid: b1c068693dd982a4d817e35570c14696, type: 3}
+    - {fileID: 2800000, guid: a6d4f05e995dc35469f2b9d279688c23, type: 3}
+    - {fileID: 2800000, guid: 6e4e80fc85061c9409c6987e90edfe99, type: 3}
+    - {fileID: 2800000, guid: e18087474bcf0c349b4293ec80be93bd, type: 3}
+    - {fileID: 2800000, guid: 65e382777a16ecc42b9030f2f66ec1a1, type: 3}
+    - {fileID: 2800000, guid: 03e731f9ab9eb094c8c7396156a5585d, type: 3}
+    - {fileID: 2800000, guid: af49e2fdfff04d247bbbc56ddd6d1a48, type: 3}
+    - {fileID: 2800000, guid: ee2c6e50a7cbe024c9603d3cd5b447e9, type: 3}
+    - {fileID: 2800000, guid: bb1da0bace3716346bab79debab977c5, type: 3}
+    - {fileID: 2800000, guid: ee3ff4e6963a965428c41d2b4ee5d69b, type: 3}
+    - {fileID: 2800000, guid: 175083401bd9057418f2c971db43ee4c, type: 3}
+    - {fileID: 2800000, guid: b1c9cbe6b74e97f4e9b042dcf6f32501, type: 3}
+    - {fileID: 2800000, guid: 4fc42f8a0136baf47a1e27b1bdb83861, type: 3}
+    - {fileID: 2800000, guid: bdf864ed61c68d3498e89509563671e6, type: 3}
+    - {fileID: 2800000, guid: d010ef17e520e5c4d889dc6c16bf885c, type: 3}
+    - {fileID: 2800000, guid: bfb23abc3c655224185098f511dd4856, type: 3}
+    - {fileID: 2800000, guid: 47baebaf03349394d8d3e7bb03a787c6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 175083401bd9057418f2c971db43ee4c, type: 3}
+  - {fileID: 21300000, guid: ee2c6e50a7cbe024c9603d3cd5b447e9, type: 3}
+  - {fileID: 21300000, guid: 450e44419fa31714d8d64dbd22eca72c, type: 3}
+  - {fileID: 21300000, guid: e6b758d11ff6cd44d8b1dfab2bf8a7d5, type: 3}
+  - {fileID: 21300000, guid: 88694dd106ecf2e4db9a74ded9fff56a, type: 3}
+  - {fileID: 21300000, guid: 0e0faa92d5abc94429a817be3828a117, type: 3}
+  - {fileID: 21300000, guid: 15f5ade27f50bd8459d6421149e3692d, type: 3}
+  - {fileID: 21300000, guid: c51b6d53ad8f17a4194f41ef776761f0, type: 3}
+  - {fileID: 21300000, guid: 78db990401f725944b9bacfc06d8acb9, type: 3}
+  - {fileID: 21300000, guid: ee3ff4e6963a965428c41d2b4ee5d69b, type: 3}
+  - {fileID: 21300000, guid: b1c9cbe6b74e97f4e9b042dcf6f32501, type: 3}
+  - {fileID: 21300000, guid: d010ef17e520e5c4d889dc6c16bf885c, type: 3}
+  - {fileID: 21300000, guid: e18087474bcf0c349b4293ec80be93bd, type: 3}
+  - {fileID: 21300000, guid: 65e382777a16ecc42b9030f2f66ec1a1, type: 3}
+  - {fileID: 21300000, guid: c1536ef7dd484bb4aacb47f468ef9cc6, type: 3}
+  - {fileID: 21300000, guid: 57a101e87d9440b408efe5169dc00119, type: 3}
+  - {fileID: 21300000, guid: b1c068693dd982a4d817e35570c14696, type: 3}
+  - {fileID: 21300000, guid: 03e731f9ab9eb094c8c7396156a5585d, type: 3}
+  - {fileID: 21300000, guid: 4fc42f8a0136baf47a1e27b1bdb83861, type: 3}
+  - {fileID: 21300000, guid: bb1da0bace3716346bab79debab977c5, type: 3}
+  - {fileID: 21300000, guid: 52dc53bbbec4dc84f89a84f565d83209, type: 3}
+  - {fileID: 21300000, guid: 79efafac7082c6c408f261d70e283480, type: 3}
+  - {fileID: 21300000, guid: bfb23abc3c655224185098f511dd4856, type: 3}
+  - {fileID: 21300000, guid: 6e4e80fc85061c9409c6987e90edfe99, type: 3}
+  - {fileID: 21300000, guid: e0afe3fc204220c4a9129ddec708632f, type: 3}
+  - {fileID: 21300000, guid: bdf864ed61c68d3498e89509563671e6, type: 3}
+  - {fileID: 21300000, guid: af49e2fdfff04d247bbbc56ddd6d1a48, type: 3}
+  - {fileID: 21300000, guid: 5b9e3f2e0e5551141a7e0c805cc08a86, type: 3}
+  - {fileID: 21300000, guid: a6d4f05e995dc35469f2b9d279688c23, type: 3}
+  - {fileID: 21300000, guid: 47baebaf03349394d8d3e7bb03a787c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tile2_0023_Vector-Smart-Object
+  - tile2_0020_toucan
+  - tile2_0011_monkey-(1)
+  - tile2_0001_Capa-1
+  - tile2_0006_Layer-2
+  - tile2_0003_paw
+  - tile2_0000_paw
+  - tile2_0009_bee
+  - tile2_0005_Layer-3
+  - tile2_0022_whale-(1)
+  - tile2_0024_deer-(1)
+  - tile2_0027_Vector-Smart-Object1
+  - tile2_0016_bear-(1)
+  - tile2_0017_frog-(1)
+  - tile2_0008_pets
+  - tile2_0004_Capa-1
+  - tile2_0013_Vector-Smart-Object
+  - tile2_0018_penguin-(1)
+  - tile2_0025_pig-(1)
+  - tile2_0021_fox-(1)
+  - tile2_0012_panda-bear
+  - tile2_0002_Capa-1
+  - tile2_0028_wolf-(1)
+  - tile2_0015_giraffe-(1)
+  - tile2_0010_owl-(1)
+  - tile2_0026_flamingo
+  - tile2_0019_octopus
+  - tile2_0007_Layer-1
+  - tile2_0014_polar-bear
+  - tile2_0029_hare
+  m_RenderDataMap: {}
+  m_Tag: TileAtlas2
+  m_IsVariant: 0

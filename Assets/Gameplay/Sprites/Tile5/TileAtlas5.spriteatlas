@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TileAtlas5
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: be2e7de8454ab0546b07e6d7593e8720, type: 3}
+    - {fileID: 2800000, guid: 91390cc382f11174790221d0604f80c9, type: 3}
+    - {fileID: 2800000, guid: 9fe9529f6e4e67445b078d43c18e9b5f, type: 3}
+    - {fileID: 2800000, guid: 809fd07b9f749f640a4818dffc007d88, type: 3}
+    - {fileID: 2800000, guid: d6a46e4fc2cd03a4ab57cf44349bd059, type: 3}
+    - {fileID: 2800000, guid: 5713f44de393f204bbcb565cb64eb32f, type: 3}
+    - {fileID: 2800000, guid: 783a5664953a2ad46a7b702b1273af19, type: 3}
+    - {fileID: 2800000, guid: 944f1600eaf524b4fb0a6bcd9571395e, type: 3}
+    - {fileID: 2800000, guid: 9348a365e3eea8241be08af2fa9a3e9a, type: 3}
+    - {fileID: 2800000, guid: e0568d34342f91241addf660f1dce8f1, type: 3}
+    - {fileID: 2800000, guid: e17beb57a2b2ab241a040f5192aa950f, type: 3}
+    - {fileID: 2800000, guid: f0d3331c9eee3b64b89e1dbe115c46ca, type: 3}
+    - {fileID: 2800000, guid: 781d668b59cdee2448393e2e9ff461c4, type: 3}
+    - {fileID: 2800000, guid: ca36e2fe2c80bfd458e3c3358fb73194, type: 3}
+    - {fileID: 2800000, guid: 981988a17c779254789e1ac5edf06e72, type: 3}
+    - {fileID: 2800000, guid: e8274bf087dcd7349859d43b8fc25bfa, type: 3}
+    - {fileID: 2800000, guid: 4881623803de3394eb3ea635c95d6be5, type: 3}
+    - {fileID: 2800000, guid: 1a55dd2908edc6b4ca62d624a0bcecac, type: 3}
+    - {fileID: 2800000, guid: 6d854412ca4573b4ba19c764be021b9a, type: 3}
+    - {fileID: 2800000, guid: 01359cbc4cae1854a9c2b9d8da7c4b85, type: 3}
+    - {fileID: 2800000, guid: 3ffd88dd5e680b2458d7ba6e2c767425, type: 3}
+    - {fileID: 2800000, guid: 9b54a50ea29d4ef4bac20dae803d83b3, type: 3}
+    - {fileID: 2800000, guid: 53a7523d290f12649adac90a25e59e35, type: 3}
+    - {fileID: 2800000, guid: f2b93959085fb5b4d8e97896841355d7, type: 3}
+    - {fileID: 2800000, guid: 10d93809249204e499799b0bbf81f0a4, type: 3}
+    - {fileID: 2800000, guid: fbf7344b392dfa64a8345e9f5c0783d4, type: 3}
+    - {fileID: 2800000, guid: cfc35abb56b6a61499d24e71e8a34273, type: 3}
+    - {fileID: 2800000, guid: 1de3254a0d96f5d4f8b0d9729d3ac9bd, type: 3}
+    - {fileID: 2800000, guid: e020dec922b179b49b4ef1cfb2f233d7, type: 3}
+    - {fileID: 2800000, guid: d55c68e78e9ed9c48b53f2bf2f4421e3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 944f1600eaf524b4fb0a6bcd9571395e, type: 3}
+  - {fileID: 21300000, guid: e8274bf087dcd7349859d43b8fc25bfa, type: 3}
+  - {fileID: 21300000, guid: 981988a17c779254789e1ac5edf06e72, type: 3}
+  - {fileID: 21300000, guid: 6d854412ca4573b4ba19c764be021b9a, type: 3}
+  - {fileID: 21300000, guid: 91390cc382f11174790221d0604f80c9, type: 3}
+  - {fileID: 21300000, guid: e0568d34342f91241addf660f1dce8f1, type: 3}
+  - {fileID: 21300000, guid: 783a5664953a2ad46a7b702b1273af19, type: 3}
+  - {fileID: 21300000, guid: 9348a365e3eea8241be08af2fa9a3e9a, type: 3}
+  - {fileID: 21300000, guid: e17beb57a2b2ab241a040f5192aa950f, type: 3}
+  - {fileID: 21300000, guid: d55c68e78e9ed9c48b53f2bf2f4421e3, type: 3}
+  - {fileID: 21300000, guid: 4881623803de3394eb3ea635c95d6be5, type: 3}
+  - {fileID: 21300000, guid: be2e7de8454ab0546b07e6d7593e8720, type: 3}
+  - {fileID: 21300000, guid: 10d93809249204e499799b0bbf81f0a4, type: 3}
+  - {fileID: 21300000, guid: 1a55dd2908edc6b4ca62d624a0bcecac, type: 3}
+  - {fileID: 21300000, guid: f2b93959085fb5b4d8e97896841355d7, type: 3}
+  - {fileID: 21300000, guid: e020dec922b179b49b4ef1cfb2f233d7, type: 3}
+  - {fileID: 21300000, guid: 1de3254a0d96f5d4f8b0d9729d3ac9bd, type: 3}
+  - {fileID: 21300000, guid: fbf7344b392dfa64a8345e9f5c0783d4, type: 3}
+  - {fileID: 21300000, guid: 809fd07b9f749f640a4818dffc007d88, type: 3}
+  - {fileID: 21300000, guid: 781d668b59cdee2448393e2e9ff461c4, type: 3}
+  - {fileID: 21300000, guid: cfc35abb56b6a61499d24e71e8a34273, type: 3}
+  - {fileID: 21300000, guid: f0d3331c9eee3b64b89e1dbe115c46ca, type: 3}
+  - {fileID: 21300000, guid: 01359cbc4cae1854a9c2b9d8da7c4b85, type: 3}
+  - {fileID: 21300000, guid: 53a7523d290f12649adac90a25e59e35, type: 3}
+  - {fileID: 21300000, guid: 5713f44de393f204bbcb565cb64eb32f, type: 3}
+  - {fileID: 21300000, guid: 3ffd88dd5e680b2458d7ba6e2c767425, type: 3}
+  - {fileID: 21300000, guid: 9b54a50ea29d4ef4bac20dae803d83b3, type: 3}
+  - {fileID: 21300000, guid: ca36e2fe2c80bfd458e3c3358fb73194, type: 3}
+  - {fileID: 21300000, guid: d6a46e4fc2cd03a4ab57cf44349bd059, type: 3}
+  - {fileID: 21300000, guid: 9fe9529f6e4e67445b078d43c18e9b5f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tile5_0007_Layer-23
+  - tile5_0015_Layer-15
+  - tile5_0014_Layer-16
+  - tile5_0018_Layer-14
+  - tile5_0001_Layer-29
+  - tile5_0009_Layer-21
+  - tile5_0006_Layer-24
+  - tile5_0008_Layer-22
+  - tile5_0010_Layer-20
+  - tile5_0029_Layer-1
+  - tile5_0016_Layer-10
+  - tile5_0000_003-lime
+  - tile5_0024_Layer-6
+  - tile5_0017_Layer-12
+  - tile5_0023_Layer-7
+  - tile5_0028_Layer-2
+  - tile5_0027_Layer-3
+  - tile5_0025_Layer-5
+  - tile5_0003_Layer-27
+  - tile5_0012_Layer-18
+  - tile5_0026_Layer-4
+  - tile5_0011_Layer-19
+  - tile5_0019_Layer-13
+  - tile5_0022_Layer-8
+  - tile5_0005_Layer-25
+  - tile5_0020_Layer-11
+  - tile5_0021_Layer-9
+  - tile5_0013_Layer-17
+  - tile5_0004_Layer-26
+  - tile5_0002_Layer-28
+  m_RenderDataMap: {}
+  m_Tag: TileAtlas5
+  m_IsVariant: 0
